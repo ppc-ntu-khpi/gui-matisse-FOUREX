@@ -1,3 +1,18 @@
+# Виконане завдання
+_На 5 балів_
+
+Інформація про клієнта (owerdraft та interest rate я так і не знайшов де дістати)
+
+![img_1.png](assets/img_1.png)
+
+Звіт за клієнтами
+
+![img_2.png](assets/img_2.png)
+
+About
+
+![img_3.png](assets/img_3.png)
+
 # UI Lab 4
 ![](terminal-icon.png)
 ![](gui-icon.png)
